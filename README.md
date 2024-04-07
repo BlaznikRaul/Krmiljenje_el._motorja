@@ -11,19 +11,20 @@ Kosovnica:
 - 1x svetlobni senzor
 - 1x breadboard
 - 1x Arduino uno
-
-
+\n
+\n
 Vhodi:
 
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | -------- | ------- | -------- | ------- |
 | SS | Svetlobni senzor | svetlobni senzor | Meri svetlobo in glede na moč svetlobe regulira moč svetlobe lediode |
-
-
+\n
+\n
 Izhodi:
 
 | Oznaka v načrtu | Naslov operanda | Aktiven pin | Pomen |
 | -------- | ------- | -------- | ------- |
 | LED1 | LED |  |  |
-
+\n
+\n
 ![slika_vezave](https://github.com/BlaznikRaul/Krmiljenje_el._motorja/assets/123101962/627646cb-945f-455d-ab8a-e8e0d3184ba0)

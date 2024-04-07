@@ -13,6 +13,16 @@ Kosovnica:
 - 1x Arduino uno
 
 
+Vhodi:
+
+| Month | Savings |
+| -------- | ------- |
+| January | $250 |
+| February | $80 |
+| March | $420 |
+
+Izhodi:
+
 | Month | Savings |
 | -------- | ------- |
 | January | $250 |

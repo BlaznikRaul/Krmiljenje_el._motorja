@@ -40,7 +40,7 @@ Izhodi:
 
 | Oznaka v načrtu | Naslov operanda | Aktiven pin | Pomen |
 | -------- | ------- | -------- | ------- |
-| LED1 | LED |  |  |
+| LED1 | LED | 8 | LEDioda gori z močjo, ki je odvisna od svetlobnega senzorja |
 
 <br>
 <br>

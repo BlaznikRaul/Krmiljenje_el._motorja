@@ -19,8 +19,9 @@ Vhodi:
 | -------- | ------- | -------- | ------- |
 | Svetlobni senzor | Svetlobni senzor | Svetlobni senzor | Meri svetlobo in glede na moč svetlobe regulira moč svetlobe lediode |
 
+
 Izhodi:
 
 | Oznaka v načrtu | Naslov operanda | Aktiven pin | Pomen |
 | -------- | ------- | -------- | ------- |
-| LED1 | LED | 
+| LED1 | LED |  |  |

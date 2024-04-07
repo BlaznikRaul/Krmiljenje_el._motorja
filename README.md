@@ -15,7 +15,7 @@ Kosovnica:
 
 Vhodi:
 
-| Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen 
+| Oznaka v načrtu | Naslov operanda |
 | -------- | ------- |
 | January | $250 |
 | February | $80 |

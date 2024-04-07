@@ -11,3 +11,10 @@ Kosovnica:
 - 1x svetlobni senzor
 - 1x breadboard
 - 1x Arduino uno
+
+
+| Month | Savings |
+| -------- | ------- |
+| January | $250 |
+| February | $80 |
+| March | $420 |

@@ -17,14 +17,10 @@ Vhodi:
 
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | -------- | ------- | -------- | ------- |
-| January | $250 |
-| February | $80 |
-| March | $420 |
+| Svetlobni senzor | Svetlobni senzor | Svetlobni senzor | Meri svetlobo in glede na moč svetlobe regulira moč svetlobe lediode |
 
 Izhodi:
 
-| Month | Savings |
-| -------- | ------- |
-| January | $250 |
-| February | $80 |
-| March | $420 |
+| Oznaka v načrtu | Naslov operanda | Aktiven pin | Pomen |
+| -------- | ------- | -------- | ------- |
+| LED1 | LED | 

@@ -17,7 +17,7 @@ Vhodi:
 
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | -------- | ------- | -------- | ------- |
-| Svetlobni senzor | Svetlobni senzor | Svetlobni senzor | Meri svetlobo in glede na moč svetlobe regulira moč svetlobe lediode |
+| SS | Svetlobni senzor | svetlobni senzor | Meri svetlobo in glede na moč svetlobe regulira moč svetlobe lediode |
 
 
 Izhodi:

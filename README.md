@@ -3,8 +3,6 @@
 Projekt_UPN-P
 
 <br>
-<br>
-<br>
 
 Navodila:
 

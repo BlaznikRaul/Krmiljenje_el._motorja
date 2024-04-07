@@ -10,16 +10,14 @@ Kosovnica:
 - 1x LED dioda
 - 1x svetlobni senzor
 - 1x breadboard
-- 1x Arduino uno
-\n
-\n
+- 1x Arduino uno \n
+
 Vhodi:
 
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | -------- | ------- | -------- | ------- |
 | SS | Svetlobni senzor | svetlobni senzor | Meri svetlobo in glede na moč svetlobe regulira moč svetlobe lediode |
-\n
-\n
+
 Izhodi:
 
 | Oznaka v načrtu | Naslov operanda | Aktiven pin | Pomen |

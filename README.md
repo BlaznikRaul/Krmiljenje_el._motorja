@@ -25,3 +25,5 @@ Izhodi:
 | Oznaka v načrtu | Naslov operanda | Aktiven pin | Pomen |
 | -------- | ------- | -------- | ------- |
 | LED1 | LED |  |  |
+
+![slika_vezave](https://github.com/BlaznikRaul/Krmiljenje_el._motorja/assets/123101962/627646cb-945f-455d-ab8a-e8e0d3184ba0)

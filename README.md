@@ -60,8 +60,6 @@ Izhodi:
 <br>
 <br>
 ![slika_vezalne_sheme](https://github.com/BlaznikRaul/Krmiljenje_el._motorja/assets/123101962/16cbc23f-e291-4fcd-aee6-986103c7efb8)
-<br>
-<br>
 https://github.com/BlaznikRaul/Krmiljenje_el._motorja/assets/123101962/093141b9-78eb-4c1f-8fdb-b675148447c1
 
 

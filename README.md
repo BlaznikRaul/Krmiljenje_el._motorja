@@ -63,6 +63,6 @@ https://github.com/BlaznikRaul/Krmiljenje_el._motorja/assets/123101962/c03ec2a3-
 <br>
 <br>
 KOMENTAR:
-Delovanje nama je bilo občasno oteženo, ker se tipke niso pravilno priključile v breadboard. Prav tako tudi nekateri kabli niso delovali. Meniva, da bi za izboljšavo projekta morala dodati še eno LED diodo, k ibi nakazovala izklop drugih dveh LED diod.
+Delovanje nama je bilo občasno oteženo, ker se tipke niso pravilno priključile v breadboard. Prav tako tudi nekateri kabli niso delovali. Meniva, da bi za izboljšavo projekta morala dodati še eno LED diodo, ki bi nakazovala izklop drugih dveh LED diod.
 
 

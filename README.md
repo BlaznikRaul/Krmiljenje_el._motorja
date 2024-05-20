@@ -32,7 +32,7 @@ Vhodi:
 
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | -------- | ------- | -------- | ------- |
-| SS | Potenciometer | O, potencimeter | Poteciometer predstavlja senzor tlaka OT v ležajih. Ko je tlak (vrednost potenciometra) manjši od 200 se motor (LED diode) izklopi  |
+| R14 | Potenciometer | O, potencimeter | Poteciometer predstavlja senzor tlaka OT v ležajih. Ko je tlak (vrednost potenciometra) manjši od 200 se motor (LED diode) izklopi  |
 | SS | Stikalo | menjalno stikalo | Zasilni izklop |
 | S5 | Tipka | O, tipka | Sprememba vrtenja motorja(prižig desne LED diode) |
 | S6 | Tipka | O, tipka | Sprememba vrtenja motorja(prižig leve LED diode) |

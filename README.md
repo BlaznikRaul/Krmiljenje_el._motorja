@@ -32,7 +32,11 @@ Vhodi:
 
 | Oznaka v načrtu | Naslov operanda | Vrsta kontakta | Pomen |
 | -------- | ------- | -------- | ------- |
-| SS | Svetlobni senzor | svetlobni senzor | Meri svetlobo in glede na moč svetlobe regulira moč svetlobe lediode |
+| SS | Potenciometer | O, potencimeter | Poteciometer predstavlja senzor tlaka OT v ležajih. Ko je tlak (vrednost potenciometra) manjši od 200 se motor (LED diode) izklopi  |
+| SS | Stikalo | menjalno stikalo | Zasilni izklop |
+| S5 | Tipka | O, tipka | Sprememba vrtenja motorja(prižig desne LED diode) |
+| S6 | Tipka | O, tipka | Sprememba vrtenja motorja(prižig leve LED diode) |
+| S7 | Tipka | O, tipka | Izklopi motor(izklopi obe LED diode), in s tem omogoči spremembo vrtenja motorja(prižig druge LED diode) |
 
 <br>
 <br>
@@ -42,7 +46,8 @@ Izhodi:
 
 | Oznaka v načrtu | Naslov operanda | Aktiven pin | Pomen |
 | -------- | ------- | -------- | ------- |
-| LED1 | LED | 8 | LEDioda gori z močjo, ki je odvisna od svetlobnega senzorja |
+| LED1 | LED | 12 | Predstavlja smer vrtenja motorja v levo smer |
+| LED2 | LED | 13 | Predstavlja smer vrtenja motorja v desno smer |
 
 <br>
 <br>

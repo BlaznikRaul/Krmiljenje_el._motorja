@@ -48,4 +48,3 @@ Izhodi:
 <br>
 <br>
 
-![slika_vezave](https://github.com/BlaznikRaul/Krmiljenje_el._motorja/assets/123101962/627646cb-945f-455d-ab8a-e8e0d3184ba0)

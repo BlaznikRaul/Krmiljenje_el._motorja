@@ -14,11 +14,13 @@ Krmiljenje el. motorja:  S tipko b1 vklopimo vrtenje motorja (preko tranzistorja
 
 Kosovnica:
 
-- 8x kablov
-- 1x 10k upor
-- 1x 22k upor
-- 1x LED dioda
-- 1x svetlobni senzor
+- 19x kabel
+- 3x tipka
+- 2x tranzistor
+- 1x potenciometer
+- 6x 10k upor
+- 2x LED dioda
+- 1x stikalo
 - 1x breadboard
 - 1x Arduino uno
   

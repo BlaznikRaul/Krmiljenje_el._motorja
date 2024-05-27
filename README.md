@@ -1,6 +1,6 @@
-# Krmiljenje_el._motorja
+# Krmiljenje elektro-motorja
 
-Projekt_UPN-P
+Projekt UPN-P
 
 <br>
 
@@ -64,5 +64,10 @@ https://github.com/BlaznikRaul/Krmiljenje_el._motorja/assets/123101962/c03ec2a3-
 <br>
 KOMENTAR:
 Delovanje nama je bilo občasno oteženo, ker se tipke niso pravilno priključile v breadboard. Prav tako tudi nekateri kabli niso delovali. Meniva, da bi za izboljšavo projekta morala dodati še eno LED diodo, ki bi nakazovala izklop drugih dveh LED diod.
+Poteciometer predstavlja senzor tlaka OT v ležajih na pinu A0.
+Stikalo za zasilni izklop je na pinu 4.
+Tipka za spremembo vrtenja motorja (prižig desne LED diode) je an pinu 1.
+Tipka za spremembo vrtenja motorja (prižig leve LED diode) je an pinu 2.
+Tipka za izklop motorja je na pinu 3.
 
 

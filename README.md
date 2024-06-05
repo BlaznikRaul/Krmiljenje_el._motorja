@@ -55,7 +55,7 @@ Izhodi:
 
 ![slika_vezja](https://github.com/BlaznikRaul/Krmiljenje_el._motorja/assets/123101962/d691db58-45a7-4ba8-96cb-408c0f7235e8)
 ![slika_vezja2](https://github.com/BlaznikRaul/Krmiljenje_el._motorja/assets/123101962/0d312ee9-71a2-4f2a-b46d-57aaaf9c4779)
-![slika_sheme](https://github.com/BlaznikRaul/Krmiljenje_el._motorja/assets/123101962/65883557-72a4-4e3d-ad38-44ff3b316ca9)
+![slika_sheme](https://github.com/BlaznikRaul/Krmiljenje_el._motorja/blob/main/Slika_sheme_.png)
 
 
 
